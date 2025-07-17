@@ -1,6 +1,7 @@
 # 强制直连域名列表，来自个人收集
 
 # 个人工作中收集
+payload:
 - DOMAIN-SUFFIX,istoreos.com
 - PROCESS-NAME,zerotier-one
 - DOMAIN-SUFFIX,niulinkcloud.com
