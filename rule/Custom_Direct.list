@@ -3,5 +3,5 @@
 # 个人工作中收集
 payload:
   - DOMAIN-SUFFIX,istoreos.com
-  - PROCESS-NAME,zerotier-one
   - DOMAIN-SUFFIX,niulinkcloud.com
+  - PROCESS-NAME,zerotier-one
