@@ -4,6 +4,6 @@
 payload:
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-KEYWORD,niulink
-# - DOMAIN-SUFFIX,niulinkcloud.com
+  - DOMAIN-SUFFIX,ts.qingsongiot.com
   - PROCESS-NAME,zerotier-one
   - DOMAIN-KEYWORD,niulink
