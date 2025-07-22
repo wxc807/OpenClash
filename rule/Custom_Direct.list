@@ -6,4 +6,5 @@ payload:
   - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,qingsongiot.com
   - PROCESS-NAME,zerotier-one
+  - PROCESS-NAME,ntpd
   - DOMAIN-KEYWORD,niulink
