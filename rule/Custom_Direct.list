@@ -9,3 +9,5 @@ payload:
   - PROCESS-NAME,ntpd
   - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,py258.com
+  - DST-PORT,7717,DIRECT
+  - DST-PORT,9993,DIRECT
