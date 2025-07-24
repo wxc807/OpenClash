@@ -8,3 +8,4 @@ payload:
   - PROCESS-NAME,zerotier-one
   - PROCESS-NAME,ntpd
   - DOMAIN-KEYWORD,niulink
+  - DOMAIN-SUFFIX,py258.com
