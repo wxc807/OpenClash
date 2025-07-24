@@ -5,8 +5,8 @@ payload:
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,qingsongiot.com
-  - PROCESS-NAME,zerotier-one
-  - PROCESS-NAME,ntpd
+# - PROCESS-NAME,zerotier-one
+# - PROCESS-NAME,ntpd
   - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,py258.com
   - DST-PORT,7717,DIRECT
