@@ -2,7 +2,6 @@
 # 个人工作中收集直连地址
 payload:
   - DOMAIN-SUFFIX,istoreos.com
-  - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,qingsongiot.com
-  - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,py258.com
+  - DOMAIN-KEYWORD,niulink
