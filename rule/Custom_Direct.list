@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,niulink
   - DOMAIN-SUFFIX,hxbzt.com
   - DOMAIN-SUFFIX,123773.com
+  - DOMAIN,client.wns.windows.com
